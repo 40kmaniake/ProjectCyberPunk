@@ -1187,3 +1187,988 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.17-15.04.39:766][  4]LogFileHelpers: Saving map 'StreetLevel' took 0.718
 [2019.10.17-15.04.39:856][  4]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/StreetLevel_BuiltData436B79D84BFAD18F5DB76DA0C8EDA412.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/StreetLevel_BuiltData.uasset'
 [2019.10.17-15.04.39:968][  4]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/StreetLevel_BuiltDataD7BC821341978AE80E4E8BB65CAF194C.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/StreetLevel_BuiltData.uasset'
+[2019.10.17-15.09.43:497][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.47.01:616][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.47.03:240][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.47.39:777][941]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\clearym1\Desktop\cornerSidewalk_LP.obj)
+[2019.10.17-15.47.39:806][941]LogFbx: Loading FBX Scene from C:\Users\clearym1\Desktop\cornerSidewalk_LP.obj
+[2019.10.17-15.47.39:810][941]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.17-15.47.41:979][941]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.17-15.47.42:417][941]LogMaterial: Display: Missing cached shader map for material Corner_SectionMat, compiling. 
+[2019.10.17-15.47.42:527][941]LogFbx: Display: Triangulating static mesh Corner_Section
+[2019.10.17-15.47.42:651][941]LogStaticMesh: Building static mesh cornerSidewalk_LP...
+[2019.10.17-15.47.42:653][941]LogStaticMesh: Built static mesh [0.00s] /Game/cornerSidewalk_LP.cornerSidewalk_LP
+[2019.10.17-15.47.42:665][941]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.17-15.47.50:251][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.10.17-15.47.51:481][261]LogSlate: Window 'Delete Assets' being destroyed
+[2019.10.17-15.47.51:489][261]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Corner_SectionMat.Corner_SectionMat
+[2019.10.17-15.47.51:498][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.47.52:941][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.17-15.48.07:027][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.48.14:288][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.48.38:530][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.17-15.48.38:530][160]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/citylevel' took 0.055
+[2019.10.17-15.48.38:532][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/cornerSidewalk_LP] ([1] browsable assets)...
+[2019.10.17-15.48.38:546][160]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/cornerSidewalk_LP.cornerSidewalk_LP]
+[2019.10.17-15.48.38:546][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/cornerSidewalk_LP]
+[2019.10.17-15.48.38:579][160]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/cornerSidewalk_LP_Auto2111246514154DF3672C7D5AB902C2680.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/cornerSidewalk_LP_Auto2.uasset'
+[2019.10.17-15.48.38:589][160]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.10.17-15.48.49:358][557]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.48.50:539][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.48.50:611][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.17-15.48.51:130][595]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevelA7B2F13F4965623DFF235FA69A883097.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel.umap'
+[2019.10.17-15.48.51:235][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/citylevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset" SILENT=true
+[2019.10.17-15.48.51:315][595]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevel_BuiltData1BFCBC664B223941919919B2F71E63A2.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset'
+[2019.10.17-15.48.56:150][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.49.00:226][872]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.17-15.49.00:278][872]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/TestLevel.TestLevel
+[2019.10.17-15.49.00:337][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.10.17-15.49.02:317][872]LogSlate: Window 'Save Content' being destroyed
+[2019.10.17-15.49.02:327][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/cornerSidewalk_LP" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/cornerSidewalk_LP.uasset" SILENT=true
+[2019.10.17-15.49.02:341][872]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/cornerSidewalk_LPEA39A42348B70CBAD81D8AA591FF230D.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/cornerSidewalk_LP.uasset'
+[2019.10.17-15.49.02:353][872]Cmd: MAP LOAD FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-15.49.02:353][872]LightingResults: New page: Lighting Build
+[2019.10.17-15.49.02:354][872]LoadErrors: New page: Loading map: TestLevel.umap
+[2019.10.17-15.49.02:377][872]MapCheck: New page: Map Check
+[2019.10.17-15.49.02:377][872]LightingResults: New page: Lighting Build
+[2019.10.17-15.49.02:455][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.10.17-15.49.02:607][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-15.49.02:666][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.17-15.49.02:696][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-15.49.02:697][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.187ms to complete.
+[2019.10.17-15.49.02:697][872]LogFileHelpers: Loading map 'TestLevel' took 0.345
+[2019.10.17-15.49.02:800][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.10.17-15.49.08:202][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.49.09:458][601]LogActorFactory: Actor Factory created cornerSidewalk_LP
+[2019.10.17-15.49.10:401][708]LogActorFactory: Actor Factory created cornerSidewalk_LP
+[2019.10.17-15.49.13:552][ 42]Cmd: DELETE
+[2019.10.17-15.49.13:552][ 42]Cmd: ACTOR DELETE
+[2019.10.17-15.49.13:562][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.17-15.49.13:611][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.17-15.49.13:612][ 42]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.10.17-15.49.16:227][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.49.20:509][687]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.10.17-15.49.42:141][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\clearym1\Desktop\WalkwayTextures\cornerSidewalk\cornerSidewalk_LP_Material__2_BaseColor.jpg)
+[2019.10.17-15.49.42:291][853]LogTexture: Display: Building textures: cornerSidewalk_LP_Material__2_BaseColor (AutoDXT, 2048X2048)
+[2019.10.17-15.49.42:824][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\clearym1\Desktop\WalkwayTextures\cornerSidewalk\cornerSidewalk_LP_Material__2_Normal.jpg)
+[2019.10.17-15.49.42:994][853]LogTexture: Display: Building textures: cornerSidewalk_LP_Material__2_Normal (BC5, 2048X2048)
+[2019.10.17-15.49.43:300][853]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\clearym1\Desktop\WalkwayTextures\cornerSidewalk\cornerSidewalk_LP_Material__2_OcclusionRoughnessMetallic.jpg)
+[2019.10.17-15.49.43:459][853]LogTexture: Display: Building textures: cornerSidewalk_LP_Material__2_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2019.10.17-15.49.43:939][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.50.05:482][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.50.24:547][103]LogAssetEditorManager: Opening Asset editor for Material /Game/CornerSidewalk_Mat.CornerSidewalk_Mat
+[2019.10.17-15.50.24:552][103]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.25:000][103]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.25:019][103]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.25:019][103]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.25:022][103]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.25:146][103]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.17-15.50.25:753][137]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.26:014][152]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.26:820][208]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.17-15.50.26:820][208]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.17-15.50.26:820][208]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.17-15.50.26:820][208]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.17-15.50.31:875][507]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.31:896][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.17-15.50.31:906][507]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.31:906][507]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.31:934][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.17-15.50.32:865][550]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.10.17-15.50.32:865][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.10.17-15.50.32:865][550]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.10.17-15.50.32:865][550]MaterialEditorStats: Texture samplers: 3/16
+[2019.10.17-15.50.35:270][722]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.35:295][722]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.17-15.50.35:312][722]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.35:312][722]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.36:319][770]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.17-15.50.36:319][770]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.17-15.50.36:319][770]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.17-15.50.36:319][770]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.17-15.50.36:319][770]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.17-15.50.36:319][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.17-15.50.38:015][886]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.38:035][886]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.17-15.50.38:048][886]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.38:048][886]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.38:077][886]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.17-15.50.38:086][886]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.17-15.50.39:064][929]MaterialEditorStats: Base pass shader: 110 instructions
+[2019.10.17-15.50.39:064][929]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2019.10.17-15.50.39:064][929]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.17-15.50.39:064][929]MaterialEditorStats: Texture samplers: 4/16
+[2019.10.17-15.50.39:064][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.10.17-15.50.39:064][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.17-15.50.43:644][242]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.43:668][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.17-15.50.43:686][242]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.43:686][242]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.44:705][291]MaterialEditorStats: Base pass shader: 116 instructions
+[2019.10.17-15.50.44:705][291]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2019.10.17-15.50.44:705][291]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.17-15.50.44:705][291]MaterialEditorStats: Texture samplers: 5/16
+[2019.10.17-15.50.44:705][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.10.17-15.50.44:705][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.17-15.50.47:567][475]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.47:588][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.17-15.50.47:599][475]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.47:599][475]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.47:627][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.10.17-15.50.47:635][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.10.17-15.50.47:647][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.17-15.50.47:988][485]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.48:698][516]MaterialEditorStats: Base pass shader: 116 instructions
+[2019.10.17-15.50.48:698][516]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2019.10.17-15.50.48:698][516]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.17-15.50.48:698][516]MaterialEditorStats: Texture samplers: 5/16
+[2019.10.17-15.50.48:698][516]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.10.17-15.50.48:698][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.17-15.50.52:489][776]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.52:512][776]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.52:512][776]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.52:516][776]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.17-15.50.53:515][820]MaterialEditorStats: Base pass shader: 116 instructions
+[2019.10.17-15.50.53:515][820]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.10.17-15.50.53:515][820]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.17-15.50.53:515][820]MaterialEditorStats: Texture samplers: 6/16
+[2019.10.17-15.50.53:515][820]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.10.17-15.50.53:515][820]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.17-15.50.54:528][887]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.50.54:555][887]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.50.54:555][887]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.50.54:560][887]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.17-15.50.55:514][929]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.10.17-15.50.55:514][929]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.10.17-15.50.55:514][929]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.17-15.50.55:515][929]MaterialEditorStats: Texture samplers: 6/16
+[2019.10.17-15.50.55:515][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.10.17-15.50.55:515][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.17-15.51.01:262][330]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.51.01:288][330]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.51.01:288][330]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.51.01:288][330]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.17-15.51.02:279][375]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.10.17-15.51.02:279][375]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2019.10.17-15.51.02:279][375]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2019.10.17-15.51.02:279][375]MaterialEditorStats: Texture samplers: 6/16
+[2019.10.17-15.51.02:279][375]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.10.17-15.51.02:279][375]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.17-15.51.04:105][497]LogMaterialEditor: Saving and Compiling material CornerSidewalk_Mat
+[2019.10.17-15.51.04:839][497]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.51.04:911][497]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.17-15.51.04:911][497]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.17-15.51.04:930][497]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.51.04:973][497]LogMaterial: Display: Missing cached shader map for material CornerSidewalk_Mat, compiling. 
+[2019.10.17-15.51.05:076][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.10.17-15.51.05:096][497]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.17-15.51.05:741][497]TextureStreamingBuild: Display: Compiling optional shaders took 0.664 seconds.
+[2019.10.17-15.51.05:801][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.17-15.51.09:958][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CornerSidewalk_Mat" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/CornerSidewalk_Mat.uasset" SILENT=true
+[2019.10.17-15.51.09:997][497]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/CornerSidewalk_Mat6EE4FD7943FB693C278EE5BD0D2AA0D1.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/CornerSidewalk_Mat.uasset'
+[2019.10.17-15.51.11:828][619]LogSlate: Window 'CornerSidewalk_Mat' being destroyed
+[2019.10.17-15.51.14:103][842]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/CornerSideWalk.CornerSideWalk
+[2019.10.17-15.51.14:471][842]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2019.10.17-15.51.15:869][842]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.10.17-15.51.18:775][  3]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.17-15.51.29:292][689]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.10.17-15.51.44:176][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.52.02:697][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.52.10:176][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.52.10:256][453]BlueprintLog: New page: Compile CornerSideWalk
+[2019.10.17-15.52.10:724][453]LogUObjectHash: Compacting FUObjectHashTables data took  10.17ms
+[2019.10.17-15.52.12:994][602]LogSlate: Window 'CornerSideWalk' being destroyed
+[2019.10.17-15.52.17:044][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.52.58:778][583]Cmd: DELETE
+[2019.10.17-15.52.58:778][583]Cmd: ACTOR DELETE
+[2019.10.17-15.52.58:784][583]LogEditorActor: Deleted Actor: CornerSideWalk_C
+[2019.10.17-15.52.58:889][583]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2019.10.17-15.52.58:890][583]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2019.10.17-15.53.00:149][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.53.29:015][873]Cmd: DELETE
+[2019.10.17-15.53.29:015][873]Cmd: ACTOR DELETE
+[2019.10.17-15.53.29:021][873]LogEditorActor: Deleted Actor: CornerSideWalk_C
+[2019.10.17-15.53.29:110][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2019.10.17-15.53.29:111][873]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.10.17-15.53.29:959][969]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk4)
+[2019.10.17-15.53.32:366][219]LogEditorViewport: Clicking on Actor (context menu): StandardSideWalk_C (StandardSideWalk4)
+[2019.10.17-15.53.32:392][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.53.34:857][468]LogEditorViewport: Clicking on Actor (context menu): StandardSideWalk_C (StandardSideWalk4)
+[2019.10.17-15.53.34:885][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.53.36:175][586]EditorErrors: New page: Actor Reattachment
+[2019.10.17-15.54.01:945][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.54.17:257][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.54.32:034][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.55.57:419][690]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk3)
+[2019.10.17-15.56.20:349][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.56.41:979][554]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (Flat_walkway_BP2)
+[2019.10.17-15.56.51:275][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.57.03:191][787]LogEditorViewport: Clicking on Actor (context menu): CornerSideWalk_C (StandardSideWalk4)
+[2019.10.17-15.57.03:240][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.57.05:881][ 24]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.17-15.57.05:881][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-15.57.05:881][ 24]PIE: New page: PIE session: TestLevel (Oct 17, 2019, 7:57:05 AM)
+[2019.10.17-15.57.05:881][ 24]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_TestLevel
+[2019.10.17-15.57.05:905][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023037s)
+[2019.10.17-15.57.05:905][ 24]LogAIModule: Creating AISystem for world TestLevel
+[2019.10.17-15.57.05:905][ 24]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2019.10.17-15.57.05:905][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/TestLevel.TestLevel to /Game/Maps/Levels/UEDPIE_0_TestLevel.TestLevel (0.024142s)
+[2019.10.17-15.57.05:971][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.10.17-15.57.05:978][ 24]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.17-15.57.05:992][ 24]LogInit: FAudioDevice initialized.
+[2019.10.17-15.57.05:993][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.57.06:026][ 24]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.17-15.57.06:041][ 24]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2019.10.17-11.57.06
+[2019.10.17-15.57.06:041][ 24]LogWorld: Bringing up level for play took: 0.014111
+[2019.10.17-15.57.06:057][ 24]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_TestLevel -0.103
+[2019.10.17-15.57.06:058][ 24]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.17-15.58.27:280][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.17-15.58.27:280][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-15.58.27:314][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-15.58.27:314][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel' with GeneratedClass '/Game/Maps/Levels/TestLevel.TestLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel'
+[2019.10.17-15.58.27:383][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-15.58.27:392][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.10.17-15.58.27:422][516]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.17-15.58.29:533][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.58.31:407][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.58.31:479][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.17-15.58.32:094][962]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/TestLevel6A82A4504962CB3E9ECCF7AFD8358F2F.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/TestLevel.umap'
+[2019.10.17-15.58.32:155][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/TestLevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/TestLevel_BuiltData.uasset" SILENT=true
+[2019.10.17-15.58.32:296][962]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/TestLevel_BuiltData4810C20D4EA4120672A5CFACC2661592.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/TestLevel_BuiltData.uasset'
+[2019.10.17-15.58.41:150][979]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.58.43:259][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.17-15.58.43:269][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-15.58.43:288][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CornerSideWalk" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/CornerSideWalk.uasset" SILENT=true
+[2019.10.17-15.58.43:321][206]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/CornerSideWalk3C7F09204147FA9E10B58197E100C498.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/CornerSideWalk.uasset'
+[2019.10.17-15.58.43:944][206]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/cornerSidewalk_LP_Material__2_BaAC3175EC4D8DCF9F29F9EC9C3F977F77.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/cornerSidewalk_LP_Material__2_BaseColor.uasset'
+[2019.10.17-15.58.44:808][206]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/cornerSidewalk_LP_Material__2_NoAA382F57493FC25C3F4A309858ACA9B8.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/cornerSidewalk_LP_Material__2_Normal.uasset'
+[2019.10.17-15.58.45:452][206]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/cornerSidewalk_LP_Material__2_Oc5AA2461C4D1B1AA90AC1ACA74330E430.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/cornerSidewalk_LP_Material__2_OcclusionRoughnessMetallic.uasset'
+[2019.10.17-15.58.46:684][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.58.46:809][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.10.17-15.58.51:138][829]LogAIModule: Creating AISystem for world citylevel
+[2019.10.17-15.58.51:198][829]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/citylevel.citylevel
+[2019.10.17-15.58.51:254][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.10.17-15.58.51:256][829]Cmd: MAP LOAD FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-15.58.51:256][829]LightingResults: New page: Lighting Build
+[2019.10.17-15.58.51:257][829]LoadErrors: New page: Loading map: citylevel.umap
+[2019.10.17-15.58.51:260][829]MapCheck: New page: Map Check
+[2019.10.17-15.58.51:260][829]LightingResults: New page: Lighting Build
+[2019.10.17-15.58.51:317][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.17-15.58.51:391][829]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/RoadsLevel) is flushing async loading
+[2019.10.17-15.58.51:391][829]LogStreaming: Display: Flushing async loaders.
+[2019.10.17-15.58.52:115][829]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/StreetLevel) is flushing async loading
+[2019.10.17-15.58.52:289][829]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/IndustrialSec_RoofTops) is flushing async loading
+[2019.10.17-15.58.52:298][829]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/HighWayLevel) is flushing async loading
+[2019.10.17-15.58.52:358][829]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/GovSec_Buildings) is flushing async loading
+[2019.10.17-15.58.52:366][829]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/Industrialsec_buildings) is flushing async loading
+[2019.10.17-15.58.52:728][829]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-15.58.52:807][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2019.10.17-15.58.52:881][829]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-15.58.52:883][829]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.408ms to complete.
+[2019.10.17-15.58.52:883][829]LogFileHelpers: Loading map 'citylevel' took 1.629
+[2019.10.17-15.59.03:135][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.59.10:392][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-15.59.10:572][609]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/citylevel.citylevel
+[2019.10.17-15.59.10:622][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.10.17-15.59.14:885][609]LogSlate: Window 'Save Content' being destroyed
+[2019.10.17-15.59.14:891][609]Cmd: MAP LOAD FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.17-15.59.14:894][609]LightingResults: New page: Lighting Build
+[2019.10.17-15.59.14:896][609]LoadErrors: New page: Loading map: citylevel.umap
+[2019.10.17-15.59.14:918][609]MapCheck: New page: Map Check
+[2019.10.17-15.59.14:918][609]LightingResults: New page: Lighting Build
+[2019.10.17-15.59.15:005][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.10.17-15.59.15:063][609]LogAIModule: Creating AISystem for world citylevel
+[2019.10.17-15.59.15:160][609]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/HighWayLevel) is flushing async loading
+[2019.10.17-15.59.15:161][609]LogStreaming: Display: Flushing async loaders.
+[2019.10.17-15.59.15:221][609]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/Industrialsec_buildings) is flushing async loading
+[2019.10.17-15.59.15:597][609]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/IndustrialSec_RoofTops) is flushing async loading
+[2019.10.17-15.59.15:611][609]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/GovSec_Buildings) is flushing async loading
+[2019.10.17-15.59.15:621][609]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/RoadsLevel) is flushing async loading
+[2019.10.17-15.59.16:428][609]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Levels/StreetLevel) is flushing async loading
+[2019.10.17-15.59.16:603][609]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.17-15.59.16:685][609]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.10.17-15.59.16:721][609]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.17-15.59.16:722][609]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.95ms to complete.
+[2019.10.17-15.59.16:724][609]LogFileHelpers: Loading map 'citylevel' took 1.834
+[2019.10.17-15.59.16:819][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.17-15.59.23:372][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.00.35:768][878]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.00.38:283][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.00.38:805][136]LogEditorViewport: Clicking on Actor (context menu): StandardSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.00.38:836][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.00.39:789][204]EditorErrors: New page: Actor Reattachment
+[2019.10.17-16.01.09:937][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.17-16.01.15:068][488]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.01.17:808][670]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk14)
+[2019.10.17-16.01.27:371][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.10.17-16.01.34:687][236]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk111)
+[2019.10.17-16.01.35:812][337]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.01.58:885][424]LogEditorViewport: Clicking on Actor (LMB): stopLight_C (stopLight)
+[2019.10.17-16.02.02:797][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road7)
+[2019.10.17-16.02.11:287][114]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.02.16:423][375]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk111)
+[2019.10.17-16.02.24:791][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road18)
+[2019.10.17-16.02.25:518][901]Cmd: DELETE
+[2019.10.17-16.02.25:519][901]Cmd: ACTOR DELETE
+[2019.10.17-16.02.25:542][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.17-16.02.25:604][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.10.17-16.02.25:604][901]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2019.10.17-16.02.26:247][946]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk112)
+[2019.10.17-16.07.35:690][842]LogEditorViewport: Clicking on Actor (CTRL LMB): StandardSideWalk_C (StandardSideWalk112)
+[2019.10.17-16.07.37:234][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.10.17-16.07.42:009][418]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk113)
+[2019.10.17-16.07.52:393][ 32]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk112)
+[2019.10.17-16.07.56:899][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.08.22:355][637]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.08.28:486][ 92]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.08.28:845][107]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk112)
+[2019.10.17-16.08.33:366][497]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk113)
+[2019.10.17-16.08.34:124][553]Cmd: DELETE
+[2019.10.17-16.08.34:124][553]Cmd: ACTOR DELETE
+[2019.10.17-16.08.34:146][553]LogEditorActor: Deleted Actor: StandardSideWalk_C
+[2019.10.17-16.08.34:207][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2019.10.17-16.08.34:208][553]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2019.10.17-16.08.34:651][597]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk112)
+[2019.10.17-16.09.12:194][980]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk111)
+[2019.10.17-16.09.14:141][ 80]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk57)
+[2019.10.17-16.09.24:783][957]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk111)
+[2019.10.17-16.09.29:237][333]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk115)
+[2019.10.17-16.09.39:879][377]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk116)
+[2019.10.17-16.09.40:524][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.17-16.09.43:605][743]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk116)
+[2019.10.17-16.09.54:735][802]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk116)
+[2019.10.17-16.09.55:485][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.17-16.10.00:309][287]LogEditorViewport: Clicking on Actor (context menu): StandardSideWalk_C (StandardSideWalk113)
+[2019.10.17-16.10.00:379][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.10.02:295][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel' with GeneratedClass '/Game/Maps/Levels/citylevel.citylevel_C' with ClassGeneratedBy '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel'
+[2019.10.17-16.10.02:295][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel' with GeneratedClass '/Game/Maps/Levels/HighWayLevel.HighWayLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel'
+[2019.10.17-16.10.02:295][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings' with GeneratedClass '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings'
+[2019.10.17-16.10.02:295][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops' with GeneratedClass '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops_C' with ClassGeneratedBy '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops'
+[2019.10.17-16.10.02:295][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings' with GeneratedClass '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings'
+[2019.10.17-16.10.02:296][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel' with GeneratedClass '/Game/Maps/Levels/RoadsLevel.RoadsLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel'
+[2019.10.17-16.10.02:296][379]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel' with GeneratedClass '/Game/Maps/Levels/StreetLevel.StreetLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel'
+[2019.10.17-16.10.02:296][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.17-16.10.02:296][379]PIE: New page: PIE session: citylevel (Oct 17, 2019, 8:10:02 AM)
+[2019.10.17-16.10.02:296][379]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_citylevel
+[2019.10.17-16.10.02:314][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018177s)
+[2019.10.17-16.10.02:315][379]LogAIModule: Creating AISystem for world citylevel
+[2019.10.17-16.10.02:315][379]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2019.10.17-16.10.02:315][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/citylevel.citylevel to /Game/Maps/Levels/UEDPIE_0_citylevel.citylevel (0.019320s)
+[2019.10.17-16.10.02:378][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.10.17-16.10.02:383][379]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.17-16.10.02:398][379]LogInit: FAudioDevice initialized.
+[2019.10.17-16.10.02:398][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.10.02:430][379]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.17-16.10.02:955][379]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_citylevel.citylevel up for play (max tick rate 0) at 2019.10.17-12.10.02
+[2019.10.17-16.10.02:959][379]LogWorld: Bringing up level for play took: 0.014511
+[2019.10.17-16.10.02:977][379]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_citylevel 0.808
+[2019.10.17-16.10.02:977][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel' with GeneratedClass '/Game/Maps/Levels/citylevel.citylevel_C' with ClassGeneratedBy '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel'
+[2019.10.17-16.10.02:977][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel' with GeneratedClass '/Game/Maps/Levels/HighWayLevel.HighWayLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel'
+[2019.10.17-16.10.02:977][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings' with GeneratedClass '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings'
+[2019.10.17-16.10.02:977][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops' with GeneratedClass '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops_C' with ClassGeneratedBy '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops'
+[2019.10.17-16.10.02:977][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings' with GeneratedClass '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings'
+[2019.10.17-16.10.02:978][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel' with GeneratedClass '/Game/Maps/Levels/RoadsLevel.RoadsLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel'
+[2019.10.17-16.10.02:978][379]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel' with GeneratedClass '/Game/Maps/Levels/StreetLevel.StreetLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel'
+[2019.10.17-16.10.08:940][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel' with GeneratedClass '/Game/Maps/Levels/citylevel.citylevel_C' with ClassGeneratedBy '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel'
+[2019.10.17-16.10.08:940][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel' with GeneratedClass '/Game/Maps/Levels/HighWayLevel.HighWayLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel'
+[2019.10.17-16.10.08:940][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings' with GeneratedClass '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings'
+[2019.10.17-16.10.08:940][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops' with GeneratedClass '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops_C' with ClassGeneratedBy '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops'
+[2019.10.17-16.10.08:940][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings' with GeneratedClass '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings'
+[2019.10.17-16.10.08:940][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel' with GeneratedClass '/Game/Maps/Levels/RoadsLevel.RoadsLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel'
+[2019.10.17-16.10.08:940][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel' with GeneratedClass '/Game/Maps/Levels/StreetLevel.StreetLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel'
+[2019.10.17-16.10.08:940][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-16.10.08:999][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.17-16.10.09:000][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel' with GeneratedClass '/Game/Maps/Levels/citylevel.citylevel_C' with ClassGeneratedBy '/Game/Maps/Levels/citylevel.citylevel:PersistentLevel.citylevel'
+[2019.10.17-16.10.09:000][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel' with GeneratedClass '/Game/Maps/Levels/HighWayLevel.HighWayLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel'
+[2019.10.17-16.10.09:000][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings' with GeneratedClass '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings'
+[2019.10.17-16.10.09:000][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops' with GeneratedClass '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops_C' with ClassGeneratedBy '/Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.IndustrialSec_RoofTops'
+[2019.10.17-16.10.09:000][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings' with GeneratedClass '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings_C' with ClassGeneratedBy '/Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings'
+[2019.10.17-16.10.09:000][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel' with GeneratedClass '/Game/Maps/Levels/RoadsLevel.RoadsLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.RoadsLevel'
+[2019.10.17-16.10.09:000][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel' with GeneratedClass '/Game/Maps/Levels/StreetLevel.StreetLevel_C' with ClassGeneratedBy '/Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel'
+[2019.10.17-16.10.09:079][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.17-16.10.09:093][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2019.10.17-16.10.09:133][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.17-16.10.09:187][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.17-16.10.09:999][109]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk117)
+[2019.10.17-16.10.33:202][993]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk116)
+[2019.10.17-16.10.35:619][199]Cmd: DELETE
+[2019.10.17-16.10.35:619][199]Cmd: ACTOR DELETE
+[2019.10.17-16.10.35:631][199]LogEditorActor: Deleted Actor: Flat_walkway_BP_C
+[2019.10.17-16.10.35:689][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.10.17-16.10.35:689][199]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2019.10.17-16.10.39:033][533]LogEditorViewport: Clicking on Actor (context menu): Flat_walkway_BP_C (StandardSideWalk117)
+[2019.10.17-16.10.39:077][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.10.39:917][609]LogEditorViewport: Clicking on Actor (LMB): Flat_walkway_BP_C (StandardSideWalk117)
+[2019.10.17-16.10.47:874][381]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk113)
+[2019.10.17-16.10.48:625][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.17-16.11.16:623][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2019.10.17-16.11.17:336][ 93]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevel_Auto3570B7F504EF85B193367B6BD2148036B.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/citylevel_Auto3.umap'
+[2019.10.17-16.11.17:432][ 93]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RoadsLevel, Actor: /Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.REINST_RoadsLevel_C_0
+[2019.10.17-16.11.19:325][ 93]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/RoadsLevel_Auto3D67CC3F44625C46AAD1630B25755C83F.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/RoadsLevel_Auto3.umap'
+[2019.10.17-16.11.19:336][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/citylevel' took 2.783
+[2019.10.17-16.11.19:336][ 93]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.783
+[2019.10.17-16.12.02:553][223]LogEditorViewport: Clicking on Actor (LMB): eletricalSupport_C (eletricalSupport)
+[2019.10.17-16.12.05:677][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.12.06:405][435]MapCheck: New page: Map Check
+[2019.10.17-16.12.06:418][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.12.06:422][435]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.17-16.12.06:422][435]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.17-16.12.08:125][435]LightingResults: New page: Lighting Build - Oct 17, 2019, 8:12:08 AM
+[2019.10.17-16.12.08:149][435]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.17-16.12.08:158][435]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.17-16.12.08:158][435]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.17-16.12.08:160][435]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.17-16.12.08:160][435]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10756
+[2019.10.17-16.12.30:735][435]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.10.17-16.12.30:736][435]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.17-16.12.30:736][435]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.17-16.12.30:736][435]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.17-16.12.30:736][435]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.17-16.12.30:736][435]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.17-16.12.30:999][435]LogEditorBuildUtils: Build time 0:24
+[2019.10.17-16.12.31:323][438]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.10.17-16.12.40:588][964]Job is a success!
+[2019.10.17-16.12.40:635][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.12.41:276][965]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.119s
+[2019.10.17-16.12.41:276][965]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.10.17-16.12.41:276][965]LogVolumetricLightmapImport:      BrickData 190x5x5 = 0.2Mb
+[2019.10.17-16.12.41:276][965]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.17-16.12.41:276][965]LogVolumetricLightmapImport:          0: 21.1% covering 100.0% of volume
+[2019.10.17-16.12.41:276][965]LogVolumetricLightmapImport:          1: 78.9% covering 5.9% of volume
+[2019.10.17-16.12.41:276][965]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2019.10.17-16.12.44:413][965]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 512X256)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 512X512)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 512X512)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 512X256)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 512X512)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 512X512)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2019.10.17-16.12.44:414][965]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion1_22 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_25 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_26 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_27 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_28 (AutoDXT, 256X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 256X256)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 256X256)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_29 (AutoDXT, 512X256)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 512X512)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 512X512)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_30 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_31 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_32 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_33 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_34 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_35 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 128X128)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: SkyOcclusion0_36 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:415][965]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_37 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_38 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_39 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_40 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_41 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_42 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_43 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_44 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion1_45 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 128X128)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: SkyOcclusion0_46 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:416][965]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_47 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_48 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_49 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion1_50 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion1_51 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion1_52 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion1_53 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_55 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion1_54 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_56 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_57 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_58 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_59 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_60 (AutoDXT, 512X256)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 512X512)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 512X512)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_61 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 128X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: SkyOcclusion0_62 (AutoDXT, 256X128)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 256X256)
+[2019.10.17-16.12.44:417][965]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 256X256)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_63 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion1_64 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_65 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_66 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_67 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_68 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_69 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_70 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_71 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion1_72 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap1_72 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_1_72 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_73 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion1_74 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap1_74 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_1_74 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_75 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion1_76 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap1_76 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_1_76 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion1_77 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap1_77 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_1_77 (DXT1, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: SkyOcclusion0_78 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:418][965]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion0_79 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_80 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_80 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_80 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_81 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_81 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_81 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_82 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_82 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_82 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_83 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_83 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_83 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_84 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_84 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_84 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_85 (AutoDXT, 256X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_85 (AutoDXT, 256X256)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_85 (DXT1, 256X256)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_86 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_86 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_86 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_87 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_87 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_87 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_88 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_88 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_88 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion0_89 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap0_89 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_0_89 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion0_90 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap0_90 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_0_90 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion0_91 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap0_91 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_0_91 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion1_92 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap1_92 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_1_92 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion0_93 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap0_93 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_0_93 (DXT1, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: SkyOcclusion0_94 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: HQ_Lightmap0_94 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:419][965]LogTexture: Display: Building textures: LQ_Lightmap_0_94 (DXT1, 128X128)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion1_95 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap1_95 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_1_95 (DXT1, 128X128)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion1_96 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap1_96 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_1_96 (DXT1, 128X128)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion1_97 (AutoDXT, 128X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap1_97 (AutoDXT, 128X128)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_1_97 (DXT1, 128X128)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_98 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_98 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_98 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap1_99 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion1_99 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_1_99 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap1_100 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion1_100 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_1_100 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_101 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_101 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion1_102 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_101 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap1_102 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_1_102 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_103 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_103 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_103 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_104 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_104 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_104 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_105 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_105 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_105 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_106 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_106 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_107 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_106 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_107 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_107 (DXT1, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: SkyOcclusion0_108 (AutoDXT, 64X32)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: HQ_Lightmap0_108 (AutoDXT, 64X64)
+[2019.10.17-16.12.44:420][965]LogTexture: Display: Building textures: LQ_Lightmap_0_108 (DXT1, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 64X64)
+[2019.10.17-16.12.44:614][965]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 128X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 512X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 32X32)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 32X32)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 32X32)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 32X32)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 32X32)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2019.10.17-16.12.44:615][965]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 64X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 256X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 64X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 64X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 64X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 512X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 1024X64)
+[2019.10.17-16.12.44:616][965]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 1024X64)
+[2019.10.17-16.12.44:814][965]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X1024)
+[2019.10.17-16.12.45:234][965]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 2048X1024)
+[2019.10.17-16.12.45:295][965]Lightmass on ATC-174-19: 13.2 sec total, 165 ms importing, 35 ms setup, 3.68 sec photons, 9.27 sec processing, 0 ms extra exporting [323/323 mappings]. Threads: 2:54 min total, 40.6 sec processing.
+[2019.10.17-16.12.45:299][965]LogStaticLightingSystem: HighWayLevel_BuiltData storing lightmap data for 15 meshes in 15 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.10.17-16.12.45:300][965]LogStaticLightingSystem: Industrialsec_buildings_BuiltData storing lightmap data for 163 meshes in 74 LightmapResourceClusters (2.2 Meshes per cluster).
+[2019.10.17-16.12.45:300][965]LogStaticLightingSystem: GovSec_Buildings_BuiltData storing lightmap data for 2 meshes in 1 LightmapResourceClusters (2.0 Meshes per cluster).
+[2019.10.17-16.12.45:300][965]LogStaticLightingSystem: RoadsLevel_BuiltData storing lightmap data for 77 meshes in 29 LightmapResourceClusters (2.7 Meshes per cluster).
+[2019.10.17-16.12.45:300][965]LogStaticLightingSystem: StreetLevel_BuiltData storing lightmap data for 19 meshes in 3 LightmapResourceClusters (6.3 Meshes per cluster).
+[2019.10.17-16.12.45:478][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.17-16.12.45:518][965]LogStaticLightingSystem: Illumination: 37.3 sec (1.74 sec encoding lightmaps, 831 ms encoding shadowmaps)
+[2019.10.17-16.12.45:518][965]LogStaticLightingSystem: Lightmap texture memory:  31.7 MB (9.7 MB streaming, 22.0 MB non-streaming), 216 textures
+[2019.10.17-16.12.45:518][965]LogStaticLightingSystem: Shadowmap texture memory: 4.8 MB (0.8 MB streaming, 4.0 MB non-streaming), 92 textures
+[2019.10.17-16.12.45:752][965]DumpUnbuiltLightIteractions
+[2019.10.17-16.12.45:752][965]Lights with unbuilt interactions: 0
+[2019.10.17-16.12.45:752][965]
+[2019.10.17-16.12.45:752][965]Primitives with unbuilt interactions: 0
+[2019.10.17-16.12.45:762][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.12.45:976][966]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.17-16.12.45:976][966]MapCheck: New page: citylevel - Oct 17, 2019, 8:12:45 AM
+[2019.10.17-16.12.45:982][966]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.666ms to complete.
+[2019.10.17-16.16.12:442][609]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk58)
+[2019.10.17-16.16.17:824][747]LogEditorViewport: Clicking on Actor (context menu): stopLight_C (stopLight4)
+[2019.10.17-16.16.17:942][747]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.16.18:736][759]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk116)
+[2019.10.17-16.16.29:016][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.17.11:006][733]Cmd: DELETE
+[2019.10.17-16.17.11:006][733]Cmd: ACTOR DELETE
+[2019.10.17-16.17.11:043][733]LogEditorActor: Deleted Actor: Brush
+[2019.10.17-16.17.11:111][733]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.10.17-16.17.11:125][733]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2019.10.17-16.17.12:183][853]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk116)
+[2019.10.17-16.17.17:057][306]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk111)
+[2019.10.17-16.17.20:665][672]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk112)
+[2019.10.17-16.17.44:472][220]Cmd: TRANSACTION UNDO
+[2019.10.17-16.17.44:472][220]LogEditorTransaction: Undo Move Actors
+[2019.10.17-16.18.22:160][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.18.58:808][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.19.06:153][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.19.31:902][433]Cmd: DELETE
+[2019.10.17-16.19.31:902][433]Cmd: ACTOR DELETE
+[2019.10.17-16.19.31:925][433]LogEditorActor: Deleted Actor: Brush
+[2019.10.17-16.19.31:987][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.10.17-16.19.31:997][433]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2019.10.17-16.19.35:634][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road05)
+[2019.10.17-16.20.24:571][ 98]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk119)
+[2019.10.17-16.20.30:295][646]LogEditorViewport: Clicking on Actor (LMB): CornerSideWalk_C (StandardSideWalk116)
+[2019.10.17-16.20.31:415][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.10.17-16.20.37:776][395]LogEditorViewport: Clicking on Actor (LMB): StandardSideWalk_C (StandardSideWalk119)
+[2019.10.17-16.21.24:599][496]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.21.24:694][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.10.17-16.21.25:318][496]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevel_Auto420211E594EC7C94A2DC159899F3E30E3.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/citylevel_Auto4.umap'
+[2019.10.17-16.21.25:384][496]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Industrialsec_buildings, Actor: /Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.REINST_Industrialsec_buildings_C_0
+[2019.10.17-16.21.26:507][496]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Industrialsec_buildings_Auto43D377713438CAFEC1566F1B708943822.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/Industrialsec_buildings_Auto4.umap'
+[2019.10.17-16.21.26:561][496]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: IndustrialSec_RoofTops, Actor: /Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.REINST_IndustrialSec_RoofTops_C_0
+[2019.10.17-16.21.26:886][496]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/IndustrialSec_RoofTops_Auto453707D30481BD807C1453B8705A9D6DB.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/IndustrialSec_RoofTops_Auto4.umap'
+[2019.10.17-16.21.26:935][496]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: GovSec_Buildings, Actor: /Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.REINST_GovSec_Buildings_C_0
+[2019.10.17-16.21.27:220][496]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/GovSec_Buildings_Auto4C17CBE1148C0319F73A3AAAE52FBC128.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/GovSec_Buildings_Auto4.umap'
+[2019.10.17-16.21.27:299][496]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RoadsLevel, Actor: /Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.REINST_RoadsLevel_C_0
+[2019.10.17-16.21.29:174][496]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/RoadsLevel_Auto48C4396B040955418ABBBF2AFBF404076.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/RoadsLevel_Auto4.umap'
+[2019.10.17-16.21.29:227][496]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: StreetLevel, Actor: /Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.REINST_StreetLevel_C_0
+[2019.10.17-16.21.29:919][496]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/StreetLevel_Auto42ECCFE0146CCDE7C0C4948B496D3B6F8.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/StreetLevel_Auto4.umap'
+[2019.10.17-16.21.29:970][496]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: HighWayLevel, Actor: /Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.REINST_HighWayLevel_C_0
+[2019.10.17-16.21.30:335][496]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/HighWayLevel_Auto4573498984A1AC042A9E81C9B20DBD2DC.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Autosaves/Game/Maps/Levels/HighWayLevel_Auto4.umap'
+[2019.10.17-16.21.30:343][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/citylevel' took 5.713
+[2019.10.17-16.21.30:343][496]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.713
+[2019.10.17-16.22.06:260][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.22.18:574][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.17-16.22.54:899][280]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.22.56:134][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.17-16.22.56:147][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.17-16.22.56:216][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.17-16.22.56:815][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevelD675309648B2B761615955BE2CE34379.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel.umap'
+[2019.10.17-16.22.56:905][376]LogFileHelpers: Saving map 'citylevel' took 0.752
+[2019.10.17-16.22.56:908][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/citylevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset" SILENT=true
+[2019.10.17-16.22.56:957][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevel_BuiltData8A629F3646E9A30CC98E2AA5FA9CC014.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset'
+[2019.10.17-16.22.57:028][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.10.17-16.22.57:066][376]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: HighWayLevel, Actor: /Game/Maps/Levels/HighWayLevel.HighWayLevel:PersistentLevel.REINST_HighWayLevel_C_0
+[2019.10.17-16.22.57:443][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/HighWayLevel3AC213984B093421722231962487C0DD.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/HighWayLevel.umap'
+[2019.10.17-16.22.57:469][376]LogFileHelpers: Saving map 'HighWayLevel' took 0.501
+[2019.10.17-16.22.57:639][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/HighWayLevel_BuiltData02E293E347CE667F0E046EAEEBCBA23A.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/HighWayLevel_BuiltData.uasset'
+[2019.10.17-16.22.57:706][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.17-16.22.57:742][376]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Industrialsec_buildings, Actor: /Game/Maps/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.REINST_Industrialsec_buildings_C_0
+[2019.10.17-16.22.58:807][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Industrialsec_buildings368264184C7824E951BCD7AB88C4D7E7.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/Industrialsec_buildings.umap'
+[2019.10.17-16.22.58:831][376]LogFileHelpers: Saving map 'Industrialsec_buildings' took 1.178
+[2019.10.17-16.22.59:495][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Industrialsec_buildings_BuiltDatB7D18CE64EBDF7F1C0A2078264BF138F.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/Industrialsec_buildings_BuiltData.uasset'
+[2019.10.17-16.22.59:570][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.10.17-16.22.59:607][376]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: IndustrialSec_RoofTops, Actor: /Game/Maps/Levels/IndustrialSec_RoofTops.IndustrialSec_RoofTops:PersistentLevel.REINST_IndustrialSec_RoofTops_C_0
+[2019.10.17-16.22.59:896][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/IndustrialSec_RoofTopsB6DF89E841FA8AEDD5FCB998E3E2EBB9.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/IndustrialSec_RoofTops.umap'
+[2019.10.17-16.22.59:914][376]LogFileHelpers: Saving map 'IndustrialSec_RoofTops' took 0.403
+[2019.10.17-16.22.59:967][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/IndustrialSec_RoofTops_BuiltData9015C7BC43728A6A8E73FCAB05E50CCA.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/IndustrialSec_RoofTops_BuiltData.uasset'
+[2019.10.17-16.23.00:043][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.10.17-16.23.00:080][376]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: GovSec_Buildings, Actor: /Game/Maps/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.REINST_GovSec_Buildings_C_0
+[2019.10.17-16.23.00:358][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/GovSec_Buildings5DB11AF54F81FC6FAD6CDFA63DD19641.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/GovSec_Buildings.umap'
+[2019.10.17-16.23.00:373][376]LogFileHelpers: Saving map 'GovSec_Buildings' took 0.394
+[2019.10.17-16.23.00:447][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/GovSec_Buildings_BuiltDataE4DD59F349811CD474FD64BE33C59B83.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/GovSec_Buildings_BuiltData.uasset'
+[2019.10.17-16.23.00:525][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.10.17-16.23.00:565][376]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: RoadsLevel, Actor: /Game/Maps/Levels/RoadsLevel.RoadsLevel:PersistentLevel.REINST_RoadsLevel_C_0
+[2019.10.17-16.23.02:492][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/RoadsLevel95C0FBD146287F0A000200B7BF7B1077.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/RoadsLevel.umap'
+[2019.10.17-16.23.02:516][376]LogFileHelpers: Saving map 'RoadsLevel' took 2.055
+[2019.10.17-16.23.02:522][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/RoadsLevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/RoadsLevel_BuiltData.uasset" SILENT=true
+[2019.10.17-16.23.03:121][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/RoadsLevel_BuiltData72C9D66D4FADE062AF1BA38F187A62DD.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/RoadsLevel_BuiltData.uasset'
+[2019.10.17-16.23.03:197][376]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.10.17-16.23.03:230][376]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: StreetLevel, Actor: /Game/Maps/Levels/StreetLevel.StreetLevel:PersistentLevel.REINST_StreetLevel_C_0
+[2019.10.17-16.23.03:919][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/StreetLevelAEE042604DBBC00ACC9A1883B7BB55E9.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/StreetLevel.umap'
+[2019.10.17-16.23.03:939][376]LogFileHelpers: Saving map 'StreetLevel' took 0.802
+[2019.10.17-16.23.04:037][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/StreetLevel_BuiltData90113CA84429408C1D86FCB02183B0F1.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/StreetLevel_BuiltData.uasset'
+[2019.10.17-16.23.04:052][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/citylevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset" SILENT=true
+[2019.10.17-16.23.04:129][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevel_BuiltData74AD7E3C4EFC72C739395ABCB8852407.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset'
+[2019.10.17-16.23.04:312][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/HighWayLevel_BuiltData74C15B0741840095539A8CA2384A0497.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/HighWayLevel_BuiltData.uasset'
+[2019.10.17-16.23.04:957][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/Industrialsec_buildings_BuiltDatE5746F0C413BF6E22FBDACA4223C7D29.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/Industrialsec_buildings_BuiltData.uasset'
+[2019.10.17-16.23.05:015][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/IndustrialSec_RoofTops_BuiltDataEBF21FB6436B80569DBD90A009297958.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/IndustrialSec_RoofTops_BuiltData.uasset'
+[2019.10.17-16.23.05:085][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/GovSec_Buildings_BuiltDataB3F838F24CF4A4795475ED9692FACBD8.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/GovSec_Buildings_BuiltData.uasset'
+[2019.10.17-16.23.05:097][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/RoadsLevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/RoadsLevel_BuiltData.uasset" SILENT=true
+[2019.10.17-16.23.05:558][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/RoadsLevel_BuiltData58C059364BE67CA839708D9E470025E0.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/RoadsLevel_BuiltData.uasset'
+[2019.10.17-16.23.05:656][376]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/StreetLevel_BuiltDataD989F25F431A8AEFDB8031B6DD589409.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/StreetLevel_BuiltData.uasset'
+[2019.10.17-16.23.10:210][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.17-16.23.14:107][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.10.17-16.23.16:377][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.10.17-16.23.16:990][223]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevel74AE1C1045DCA45DF9AD2AB7FDEDC123.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel.umap'
+[2019.10.17-16.23.17:069][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/citylevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset" SILENT=true
+[2019.10.17-16.23.17:122][223]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Saved/citylevel_BuiltData35347FDD4F8E0F08814F459A5E62FCE3.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/ProjectCyberPunk/Content/Maps/Levels/citylevel_BuiltData.uasset'
