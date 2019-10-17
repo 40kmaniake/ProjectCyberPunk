@@ -1,0 +1,1000 @@
+﻿Log file open, 09/16/19 09:51:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BlockOut
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.719450
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1709) (), CPU: Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz, GPU: NVIDIA Quadro P5000
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.16-13.51.23:560][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.16-13.51.23:560][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.16-13.51.23:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Engine.ini]
+[2019.09.16-13.51.23:560][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.16-13.51.23:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Engine.ini]
+[2019.09.16-13.51.23:560][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Engine.ini]
+[2019.09.16-13.51.23:560][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Engine.ini]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.16-13.51.23:561][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Engine.ini]
+[2019.09.16-13.51.23:562][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Engine.ini]
+[2019.09.16-13.51.23:599][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:599][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.16-13.51.23:599][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.16-13.51.23:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.16-13.51.23:601][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.16-13.51.23:601][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.16-13.51.23:601][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.16-13.51.23:615][  0]LogHAL: Display: Platform has ~ 32 GB [34277924864 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.09.16-13.51.23:615][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.16-13.51.23:615][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.16-13.51.23:615][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Scalability.ini]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.16-13.51.23:616][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.16-13.51.23:617][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.16-13.51.23:617][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.16-13.51.23:617][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Config/Windows/Engine.ini]
+[2019.09.16-13.51.23:617][  0]LogInit: Computer: ATC-174-19
+[2019.09.16-13.51.23:617][  0]LogInit: User: clearym1
+[2019.09.16-13.51.23:617][  0]LogInit: CPU Page size=4096, Cores=10
+[2019.09.16-13.51.23:617][  0]LogInit: High frequency timer resolution =2.143479 MHz
+[2019.09.16-13.51.23:617][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.09.16-13.51.23:617][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.16-13.51.23:617][  0]LogMemory: Process Physical Memory: 99.23 MB used, 99.23 MB peak
+[2019.09.16-13.51.23:617][  0]LogMemory: Process Virtual Memory: 91.20 MB used, 91.20 MB peak
+[2019.09.16-13.51.23:617][  0]LogMemory: Physical Memory: 5649.02 MB used,  27040.96 MB free, 32689.98 MB total
+[2019.09.16-13.51.23:617][  0]LogMemory: Virtual Memory: 611.61 MB used,  134217120.00 MB free, 134217728.00 MB total
+[2019.09.16-13.51.23:693][  0]LogInit: Using OS detected language (en-US).
+[2019.09.16-13.51.23:693][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.16-13.51.23:695][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.16-13.51.23:914][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.16-13.51.23:978][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.16-13.51.23:978][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.16-13.51.24:298][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.16-13.51.24:298][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.16-13.51.24:434][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P5000' (Feature Level 11_0)
+[2019.09.16-13.51.24:434][  0]LogD3D11RHI:       16255/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.09.16-13.51.24:438][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.16-13.51.24:439][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.16-13.51.24:439][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.16-13.51.24:452][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.16-13.51.24:452][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb0 (for the marketing name, search the web for "GPU Device Id")
+[2019.09.16-13.51.24:452][  0]LogWindows: EnumDisplayDevices:
+[2019.09.16-13.51.24:454][  0]LogWindows:    0. 'NVIDIA Quadro P5000' (P:0 D:1)
+[2019.09.16-13.51.24:456][  0]LogWindows:    1. 'NVIDIA Quadro P5000' (P:1 D:1)
+[2019.09.16-13.51.24:458][  0]LogWindows:    2. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.09.16-13.51.24:458][  0]LogWindows:    3. 'NVIDIA Quadro P5000' (P:0 D:0)
+[2019.09.16-13.51.24:459][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.09.16-13.51.24:459][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P5000
+[2019.09.16-13.51.24:459][  0]LogD3D11RHI:   Driver Version: 397.93 (internal:24.21.13.9793, unified:397.93)
+[2019.09.16-13.51.24:459][  0]LogD3D11RHI:      Driver Date: 5-22-2018
+[2019.09.16-13.51.24:459][  0]LogRHI: Texture pool is 11378 MB (70% of 16255 MB)
+[2019.09.16-13.51.24:538][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.16-13.51.24:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.16-13.51.24:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.16-13.51.24:546][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.09.16-13.51.24:561][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.16-13.51.25:096][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.16-13.51.25:121][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.16-13.51.25:146][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.16-13.51.25:171][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.16-13.51.25:196][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.16-13.51.25:221][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.16-13.51.25:246][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.16-13.51.25:271][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.16-13.51.25:284][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.16-13.51.25:419][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.16-13.51.25:419][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.16-13.51.25:420][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.16-13.51.25:423][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.16-13.51.25:502][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.16-13.51.25:502][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.16-13.51.25:534][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.16-13.51.25:534][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.16-13.51.25:551][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.16-13.51.25:568][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.16-13.51.25:585][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.16-13.51.25:602][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.16-13.51.25:661][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.16-13.51.25:661][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.16-13.51.25:661][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.16-13.51.25:678][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.16-13.51.25:799][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Intermediate/Shaders/WorkingDirectory/10796/).
+[2019.09.16-13.51.25:799][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/clearym1/AppData/Local/Temp/UnrealShaderWorkingDir/0663D20F4687E2DCF89F029C84EB216D/'.
+[2019.09.16-13.51.25:805][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.16-13.51.25:805][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.16-13.51.25:805][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.16-13.51.26:729][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.16-13.51.26:855][  0]LogDerivedDataCache: Loaded boot cache 0.13s 79MB C:/Users/clearym1/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.16-13.51.26:856][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/clearym1/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.09.16-13.51.26:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.16-13.51.26:856][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.16-13.51.26:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.16-13.51.26:856][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.16-13.51.26:876][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.16-13.51.26:876][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.16-13.51.26:876][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.16-13.51.26:889][  0]LogDerivedDataCache: Using Local data cache path C:/Users/clearym1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.16-13.51.26:889][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.16-13.51.26:889][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.16-13.51.26:937][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.16-13.51.26:940][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.16-13.51.26:941][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.16-13.51.27:085][  0]LogAssetRegistry: FAssetRegistry took 0.0400 seconds to start up
+[2019.09.16-13.51.27:664][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.16-13.51.27:901][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.16-13.51.27:901][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.16-13.51.27:901][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.16-13.51.27:901][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.16-13.51.27:901][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.16-13.51.27:932][  0]LogNetVersion: BlockOut 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3006689899)
+[2019.09.16-13.51.28:567][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042805 seconds
+[2019.09.16-13.51.28:574][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.09.16-13.51.28:574][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.09.16-13.51.28:574][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.16-13.51.30:008][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.16-13.51.30:022][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.16-13.51.30:172][  0]SourceControl: Source control is disabled
+[2019.09.16-13.51.30:172][  0]SourceControl: Source control is disabled
+[2019.09.16-13.51.30:175][  0]SourceControl: Source control is disabled
+[2019.09.16-13.51.30:177][  0]SourceControl: Source control is disabled
+[2019.09.16-13.51.30:288][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.16-13.51.30:401][  0]LogOcInput: OculusInput pre-init called
+[2019.09.16-13.51.31:553][  0]LogEngine: Initializing Engine...
+[2019.09.16-13.51.31:555][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.16-13.51.31:556][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.16-13.51.31:893][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.16-13.51.31:925][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.16-13.51.31:937][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.09.16-13.51.31:958][  0]LogInit: FAudioDevice initialized.
+[2019.09.16-13.51.31:959][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.16-13.51.32:094][  0]LogDerivedDataCache: Saved boot cache 0.14s 79MB C:/Users/clearym1/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.09.16-13.51.32:095][  0]LogInit: Texture streaming: Enabled
+[2019.09.16-13.51.32:134][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.16-13.51.32:193][  0]LogInit: Transaction tracking system initialized
+[2019.09.16-13.51.32:256][  0]BlueprintLog: New page: Editor Load
+[2019.09.16-13.51.32:480][  0]LocalizationService: Localization service is disabled
+[2019.09.16-13.51.32:973][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Content/' took 0.02s
+[2019.09.16-13.51.32:973][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.16-13.51.32:973][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.16-13.51.33:322][  0]SourceControl: Source control is disabled
+[2019.09.16-13.51.33:322][  0]Cmd: MAP LOAD FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.16-13.51.33:323][  0]LightingResults: New page: Lighting Build
+[2019.09.16-13.51.33:331][  0]MapCheck: New page: Map Check
+[2019.09.16-13.51.33:331][  0]LightingResults: New page: Lighting Build
+[2019.09.16-13.51.33:392][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.09.16-13.51.33:846][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.16-13.51.33:870][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.16-13.51.33:934][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.09.16-13.51.33:934][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.16-13.51.33:934][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.197ms to complete.
+[2019.09.16-13.51.33:934][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.612
+[2019.09.16-13.51.34:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-13.51.34:122][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-13.51.34:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-13.51.34:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.16-13.51.34:157][  0]LogCollectionManager: Loaded 0 collections in 0.005712 seconds
+[2019.09.16-13.51.34:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Collections/' took 0.01s
+[2019.09.16-13.51.34:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Developers/clearym1/Collections/' took 0.00s
+[2019.09.16-13.51.34:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Collections/' took 0.00s
+[2019.09.16-13.51.34:179][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.09.16-13.51.34:190][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2734 classes and 662 folders.
+[2019.09.16-13.51.34:203][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.16-13.51.34:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:210][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:216][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:220][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:223][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.09.16-13.51.34:305][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.16-13.51.34:315][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.09.16-13.51.34:334][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.16-13.51.34:336][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.16-13.51.34:342][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.16-13.51.34:412][  0]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:1).
+[2019.09.16-13.51.34:618][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.09.16-13.51.34:618][  0]LogLoad: (Engine Initialization) Total time: 15.38 seconds
+[2019.09.16-13.51.34:618][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.16-13.51.34:631][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.09.16-13.51.34:669][  0]LogAssetRegistry: Asset discovery search completed in 7.6060 seconds
+[2019.09.16-13.51.34:672][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.09.16-13.51.34:672][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2019.09.16-13.51.34:674][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.16-13.51.34:724][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.16-13.51.47:361][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.51.47:686][505]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.16-13.51.48:312][505]LogAIModule: Creating AISystem for world citylevel
+[2019.09.16-13.51.48:763][505]LogAssetEditorManager: Opening Asset editor for World /Game/citylevel.citylevel
+[2019.09.16-13.51.48:841][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.09.16-13.51.48:842][505]Cmd: MAP LOAD FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/citylevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.16-13.51.48:842][505]LightingResults: New page: Lighting Build
+[2019.09.16-13.51.48:843][505]LoadErrors: New page: Loading map: citylevel.umap
+[2019.09.16-13.51.48:844][505]MapCheck: New page: Map Check
+[2019.09.16-13.51.48:844][505]LightingResults: New page: Lighting Build
+[2019.09.16-13.51.48:895][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.09.16-13.51.49:741][505]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.16-13.51.49:811][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.09.16-13.51.49:831][505]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.16-13.51.49:832][505]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2019.09.16-13.51.49:832][505]LogFileHelpers: Loading map 'citylevel' took 0.990
+[2019.09.16-13.51.55:124][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.51.56:953][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road14)
+[2019.09.16-13.51.58:133][199]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (road06)
+[2019.09.16-13.52.02:090][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.52.14:591][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.52.34:000][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.52.59:205][230]LogEditorViewport: Clicking on Actor (CTRL LMB): stopLight_C (stopLight3)
+[2019.09.16-13.52.59:991][257]LogEditorViewport: Clicking on Actor (CTRL LMB): stopLight_C (stopLight4)
+[2019.09.16-13.53.01:043][294]LogEditorViewport: Clicking on Actor (CTRL LMB): stopLight_C (stopLight)
+[2019.09.16-13.53.02:201][334]LogEditorViewport: Clicking on Actor (CTRL LMB): stopLight_C (stopLight2)
+[2019.09.16-13.53.03:854][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.53.05:860][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.53.16:919][624]LogSlate: Window 'Message' being destroyed
+[2019.09.16-13.53.16:924][624]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.16-13.53.16:947][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.53.17:019][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.09.16-13.53.17:022][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetLevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/StreetLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.53.17:075][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.09.16-13.53.17:271][624]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/StreetLevel36C3CB1F4F2D110853A48DBE29E9F9CD.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/StreetLevel.umap'
+[2019.09.16-13.53.17:282][624]LogFileHelpers: Saving map 'StreetLevel' took 0.349
+[2019.09.16-13.53.17:290][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.53.17:432][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:433][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:433][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:433][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:434][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:434][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:434][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:434][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:435][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:435][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:435][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:435][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:436][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:436][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:436][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:436][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:437][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:437][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:437][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:437][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:438][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:438][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:438][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:439][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:439][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:439][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:439][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:440][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.53.17:440][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:440][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:441][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:441][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:442][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:442][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:442][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:443][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:443][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:444][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:444][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:444][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:445][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:445][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:446][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:446][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:447][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:447][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:447][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:448][624]LogEditorActor: Deleted Actor: saftyRailing_C
+[2019.09.16-13.53.17:448][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:449][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:450][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:452][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:453][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:454][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:455][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:456][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:457][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:458][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:459][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:460][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:461][624]LogEditorActor: Deleted Actor: mediumRailing_C
+[2019.09.16-13.53.17:463][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:464][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:465][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:466][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:467][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:469][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:470][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:471][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:473][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:474][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:475][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:476][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:477][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:479][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:480][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:481][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:482][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:484][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:485][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:486][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:487][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:488][624]LogEditorActor: Deleted Actor: LongRailing_C
+[2019.09.16-13.53.17:490][624]LogEditorActor: Deleted Actor: stopLight_C
+[2019.09.16-13.53.17:491][624]LogEditorActor: Deleted Actor: stopLight_C
+[2019.09.16-13.53.17:492][624]LogEditorActor: Deleted Actor: stopLight_C
+[2019.09.16-13.53.17:493][624]LogEditorActor: Deleted Actor: stopLight_C
+[2019.09.16-13.53.17:564][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.09.16-13.53.17:564][624]LogEditorActor: Deleted 87 Actors (0.138 secs)
+[2019.09.16-13.53.27:127][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.53.29:772][ 12]LogEditorViewport: Clicking on Actor (LMB): car_C (car13)
+[2019.09.16-13.53.32:897][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.53.52:605][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.53.55:991][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:992][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:992][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:993][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:993][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:994][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:994][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:995][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:995][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:996][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:996][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:997][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:997][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:998][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.55:998][899]LogEditorActor: Deleted Actor: car_C
+[2019.09.16-13.53.56:074][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.09.16-13.53.56:075][899]LogEditorActor: Deleted 15 Actors (0.089 secs)
+[2019.09.16-13.54.07:793][934]Cmd: TRANSACTION UNDO
+[2019.09.16-13.54.07:793][934]LogEditorTransaction: Undo Move Actors
+[2019.09.16-13.54.10:895][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.54.17:554][831]LogEditorActor: Deleted Actor: Brush
+[2019.09.16-13.54.17:555][831]LogEditorActor: Deleted Actor: Brush
+[2019.09.16-13.54.17:555][831]LogEditorActor: Deleted Actor: Brush
+[2019.09.16-13.54.17:608][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.09.16-13.54.17:620][831]LogEditorActor: Deleted 3 Actors (0.070 secs)
+[2019.09.16-13.54.25:167][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.54.26:242][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.09.16-13.54.26:250][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.54.26:259][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/citylevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/citylevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.54.26:311][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.09.16-13.54.27:275][727]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/citylevel7DCD8EE643C27F2145FB32B7C1921627.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/citylevel.umap'
+[2019.09.16-13.54.27:351][727]LogFileHelpers: Saving map 'citylevel' took 1.092
+[2019.09.16-13.54.27:358][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetLevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/StreetLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.54.27:414][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.09.16-13.54.27:439][727]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: StreetLevel, Actor: /Game/StreetLevel.StreetLevel:PersistentLevel.REINST_StreetLevel_C_0
+[2019.09.16-13.54.29:497][727]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/StreetLevel239B03154AAD84645DF7D6A1E3BF976E.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/StreetLevel.umap'
+[2019.09.16-13.54.29:513][727]LogFileHelpers: Saving map 'StreetLevel' took 2.156
+[2019.09.16-13.56.28:403][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube60)
+[2019.09.16-13.56.29:776][ 86]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube58)
+[2019.09.16-13.56.30:721][150]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube59)
+[2019.09.16-13.56.33:617][419]LogEditorViewport: Clicking on Actor (CTRL LMB): HighWaySupport_C (HighWaySupport3)
+[2019.09.16-13.56.35:003][547]LogEditorViewport: Clicking on Actor (CTRL LMB): HighWaySupport_C (HighWaySupport2)
+[2019.09.16-13.56.36:647][723]LogEditorViewport: Clicking on Actor (CTRL LMB): HighWaySupport_C (HighWaySupport)
+[2019.09.16-13.56.37:751][838]LogEditorViewport: Clicking on Actor (CTRL LMB): HighWaySupport_C (HighWaySupport4)
+[2019.09.16-13.56.40:083][ 43]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube78)
+[2019.09.16-13.56.42:771][302]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube77)
+[2019.09.16-13.56.44:109][405]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube63)
+[2019.09.16-13.56.46:564][634]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube61)
+[2019.09.16-13.56.50:678][ 70]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube76)
+[2019.09.16-13.56.53:200][331]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube62)
+[2019.09.16-13.56.57:798][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.00:394][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.10:215][115]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.16-13.57.10:230][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.10:313][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2019.09.16-13.57.10:315][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HighWayLevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/HighWayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.57.10:363][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.09.16-13.57.10:538][115]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/HighWayLevelFFC44EAE4288FF0F32883998AB4DA1A6.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/HighWayLevel.umap'
+[2019.09.16-13.57.10:549][115]LogFileHelpers: Saving map 'HighWayLevel' took 0.326
+[2019.09.16-13.57.10:559][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.10:585][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:585][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:586][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:586][115]LogEditorActor: Deleted Actor: HighWaySupport_C
+[2019.09.16-13.57.10:586][115]LogEditorActor: Deleted Actor: HighWaySupport_C
+[2019.09.16-13.57.10:587][115]LogEditorActor: Deleted Actor: HighWaySupport_C
+[2019.09.16-13.57.10:587][115]LogEditorActor: Deleted Actor: HighWaySupport_C
+[2019.09.16-13.57.10:588][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:588][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:589][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:589][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:589][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:589][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.10:642][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2019.09.16-13.57.10:643][115]LogEditorActor: Deleted 13 Actors (0.062 secs)
+[2019.09.16-13.57.13:348][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.57.25:110][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2019.09.16-13.57.26:279][844]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube45)
+[2019.09.16-13.57.33:536][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.36:264][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.46:052][957]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.16-13.57.46:066][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.46:139][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.09.16-13.57.46:141][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GovSec_Buildings" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/GovSec_Buildings.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.57.46:192][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.09.16-13.57.46:430][957]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/GovSec_BuildingsDF96250E4BD3DA5E67812DB5C43ED7A9.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/GovSec_Buildings.umap'
+[2019.09.16-13.57.46:442][957]LogFileHelpers: Saving map 'GovSec_Buildings' took 0.383
+[2019.09.16-13.57.46:450][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.57.46:472][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.46:473][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.57.46:534][957]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.09.16-13.57.46:535][957]LogEditorActor: Deleted 2 Actors (0.067 secs)
+[2019.09.16-13.57.48:364][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.57.52:465][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2019.09.16-13.57.53:098][611]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube54)
+[2019.09.16-13.57.54:424][727]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube53)
+[2019.09.16-13.57.59:031][175]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube36)
+[2019.09.16-13.58.00:103][270]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube100)
+[2019.09.16-13.58.04:340][707]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube89)
+[2019.09.16-13.58.05:042][770]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube90)
+[2019.09.16-13.58.05:694][835]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube91)
+[2019.09.16-13.58.06:566][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube85)
+[2019.09.16-13.58.09:009][159]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube84)
+[2019.09.16-13.58.09:553][208]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube88)
+[2019.09.16-13.58.12:219][450]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube87)
+[2019.09.16-13.58.13:691][579]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube92)
+[2019.09.16-13.58.14:418][634]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube86)
+[2019.09.16-13.58.15:922][789]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube92)
+[2019.09.16-13.58.19:437][153]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube83)
+[2019.09.16-13.58.22:737][496]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder11)
+[2019.09.16-13.58.23:691][588]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder10)
+[2019.09.16-13.58.24:392][659]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube19)
+[2019.09.16-13.58.25:330][756]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube20)
+[2019.09.16-13.58.34:162][653]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube101)
+[2019.09.16-13.58.34:754][692]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube102)
+[2019.09.16-13.58.37:391][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder18)
+[2019.09.16-13.58.37:882][980]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder16)
+[2019.09.16-13.58.41:320][312]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder17)
+[2019.09.16-13.58.41:960][358]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder19)
+[2019.09.16-13.58.42:461][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder20)
+[2019.09.16-13.58.44:620][590]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder21)
+[2019.09.16-13.58.50:040][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube108)
+[2019.09.16-13.58.51:297][183]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube110)
+[2019.09.16-13.58.52:066][244]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube111)
+[2019.09.16-13.58.52:848][306]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube112)
+[2019.09.16-13.58.53:949][394]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube113)
+[2019.09.16-13.58.55:255][499]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube109)
+[2019.09.16-13.58.55:939][553]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube103)
+[2019.09.16-13.58.56:785][620]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube98)
+[2019.09.16-13.58.58:842][763]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube81)
+[2019.09.16-13.59.02:383][ 64]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube79)
+[2019.09.16-13.59.04:534][224]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube80)
+[2019.09.16-13.59.08:147][567]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.59.09:216][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.59.20:360][676]LogSlate: Window 'Save Level As' being destroyed
+[2019.09.16-13.59.20:378][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.59.20:448][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.09.16-13.59.20:503][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.09.16-13.59.20:683][676]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Industrialsec_buildings5EED49BF47BC2E24A68DC48478D412D5.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Industrialsec_buildings.umap'
+[2019.09.16-13.59.20:693][676]LogFileHelpers: Saving map 'Industrialsec_buildings' took 0.323
+[2019.09.16-13.59.20:699][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.16-13.59.20:721][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:721][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:722][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:722][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:722][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:723][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:723][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:723][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:723][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:724][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:724][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:724][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:724][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:725][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:725][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:725][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:726][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:726][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:726][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:726][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:727][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:727][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:727][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:727][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:728][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:728][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:728][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:728][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:729][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:729][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:729][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:730][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:730][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:730][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.16-13.59.20:787][676]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.09.16-13.59.20:787][676]LogEditorActor: Deleted 34 Actors (0.070 secs)
+[2019.09.16-13.59.21:950][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.09.16-13.59.32:393][614]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X64)
+[2019.09.16-13.59.32:394][614]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 512X1024)
+[2019.09.16-13.59.32:414][614]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.09.16-13.59.32:420][614]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.09.16-13.59.32:486][614]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.09.16-13.59.32:486][614]LogAIModule: Creating AISystem for world TestLevel
+[2019.09.16-13.59.36:656][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.09.16-13.59.36:656][949]LogMetaData: Removing '/Game/Levels/citylevel.citylevel_C' ref from Metadata '/Game/citylevel.PackageMetaData'
+[2019.09.16-13.59.36:656][949]LogMetaData: Removing '/Game/Levels/citylevel.citylevel:PersistentLevel.citylevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/citylevel.PackageMetaData'
+[2019.09.16-13.59.36:656][949]LogMetaData: Removing '/Game/Levels/citylevel.citylevel:PersistentLevel.citylevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/citylevel.PackageMetaData'
+[2019.09.16-13.59.36:656][949]LogMetaData: Removing '/Game/Levels/citylevel.SKEL_citylevel_C' ref from Metadata '/Game/citylevel.PackageMetaData'
+[2019.09.16-13.59.36:924][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.09.16-13.59.36:924][949]LogMetaData: Removing '/Game/Levels/GovSec_Buildings.SKEL_GovSec_Buildings_C' ref from Metadata '/Game/GovSec_Buildings.PackageMetaData'
+[2019.09.16-13.59.36:924][949]LogMetaData: Removing '/Game/Levels/GovSec_Buildings.GovSec_Buildings_C' ref from Metadata '/Game/GovSec_Buildings.PackageMetaData'
+[2019.09.16-13.59.36:924][949]LogMetaData: Removing '/Game/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings.EventGraph.K2Node_Event_0' ref from Metadata '/Game/GovSec_Buildings.PackageMetaData'
+[2019.09.16-13.59.36:924][949]LogMetaData: Removing '/Game/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.GovSec_Buildings.EventGraph.K2Node_Event_1' ref from Metadata '/Game/GovSec_Buildings.PackageMetaData'
+[2019.09.16-13.59.37:222][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.09.16-13.59.37:222][949]LogMetaData: Removing '/Game/Levels/HighWayLevel.SKEL_HighWayLevel_C' ref from Metadata '/Game/HighWayLevel.PackageMetaData'
+[2019.09.16-13.59.37:222][949]LogMetaData: Removing '/Game/Levels/HighWayLevel.HighWayLevel_C' ref from Metadata '/Game/HighWayLevel.PackageMetaData'
+[2019.09.16-13.59.37:222][949]LogMetaData: Removing '/Game/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/HighWayLevel.PackageMetaData'
+[2019.09.16-13.59.37:222][949]LogMetaData: Removing '/Game/Levels/HighWayLevel.HighWayLevel:PersistentLevel.HighWayLevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/HighWayLevel.PackageMetaData'
+[2019.09.16-13.59.37:535][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.09.16-13.59.37:535][949]LogMetaData: Removing '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/TestLevel.PackageMetaData'
+[2019.09.16-13.59.37:535][949]LogMetaData: Removing '/Game/Levels/TestLevel.TestLevel:PersistentLevel.TestLevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/TestLevel.PackageMetaData'
+[2019.09.16-13.59.37:535][949]LogMetaData: Removing '/Game/Levels/TestLevel.TestLevel_C' ref from Metadata '/Game/TestLevel.PackageMetaData'
+[2019.09.16-13.59.37:535][949]LogMetaData: Removing '/Game/Levels/TestLevel.SKEL_TestLevel_C' ref from Metadata '/Game/TestLevel.PackageMetaData'
+[2019.09.16-13.59.37:864][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.09.16-13.59.37:864][949]LogMetaData: Removing '/Game/Levels/StreetLevel.SKEL_StreetLevel_C' ref from Metadata '/Game/StreetLevel.PackageMetaData'
+[2019.09.16-13.59.37:864][949]LogMetaData: Removing '/Game/Levels/StreetLevel.StreetLevel_C' ref from Metadata '/Game/StreetLevel.PackageMetaData'
+[2019.09.16-13.59.37:864][949]LogMetaData: Removing '/Game/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel.EventGraph.K2Node_Event_0' ref from Metadata '/Game/StreetLevel.PackageMetaData'
+[2019.09.16-13.59.37:864][949]LogMetaData: Removing '/Game/Levels/StreetLevel.StreetLevel:PersistentLevel.StreetLevel.EventGraph.K2Node_Event_1' ref from Metadata '/Game/StreetLevel.PackageMetaData'
+[2019.09.16-13.59.38:135][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.09.16-13.59.38:135][949]LogMetaData: Removing '/Game/Levels/Industrialsec_buildings.SKEL_Industrialsec_buildings_C' ref from Metadata '/Game/Industrialsec_buildings.PackageMetaData'
+[2019.09.16-13.59.38:135][949]LogMetaData: Removing '/Game/Levels/Industrialsec_buildings.Industrialsec_buildings_C' ref from Metadata '/Game/Industrialsec_buildings.PackageMetaData'
+[2019.09.16-13.59.38:135][949]LogMetaData: Removing '/Game/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Industrialsec_buildings.PackageMetaData'
+[2019.09.16-13.59.38:135][949]LogMetaData: Removing '/Game/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.Industrialsec_buildings.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Industrialsec_buildings.PackageMetaData'
+[2019.09.16-13.59.38:157][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/TestLevel_BuiltData.uasset" SILENT=true
+[2019.09.16-13.59.38:215][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/TestLevel_BuiltData84CED4E44D4647EB922B0D9B86C3427C.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/TestLevel_BuiltData.uasset'
+[2019.09.16-13.59.38:223][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/citylevel_BuiltData" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/citylevel_BuiltData.uasset" SILENT=true
+[2019.09.16-13.59.38:996][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/citylevel_BuiltData25F88CBA4423149496581EBE46848C8D.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/citylevel_BuiltData.uasset'
+[2019.09.16-13.59.39:002][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/citylevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/citylevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.59.39:061][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.09.16-13.59.40:120][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/citylevelCA2B43F94ABECE0D4C2568BBA7AEA791.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/citylevel.umap'
+[2019.09.16-13.59.40:198][949]LogFileHelpers: Saving map 'citylevel' took 1.197
+[2019.09.16-13.59.40:269][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.09.16-13.59.40:271][949]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: GovSec_Buildings, Actor: /Game/Levels/GovSec_Buildings.GovSec_Buildings:PersistentLevel.REINST_GovSec_Buildings_C_0
+[2019.09.16-13.59.40:490][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/GovSec_BuildingsFC43E69A456DB2E2F53966929ED5F075.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/GovSec_Buildings.umap'
+[2019.09.16-13.59.40:494][949]LogFileHelpers: Saving map 'GovSec_Buildings' took 0.289
+[2019.09.16-13.59.40:496][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/HighWayLevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/HighWayLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.59.40:555][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.09.16-13.59.40:557][949]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: HighWayLevel, Actor: /Game/Levels/HighWayLevel.HighWayLevel:PersistentLevel.REINST_HighWayLevel_C_0
+[2019.09.16-13.59.40:821][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/HighWayLevel38776720425D72EBAFFA5A805E616296.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/HighWayLevel.umap'
+[2019.09.16-13.59.40:827][949]LogFileHelpers: Saving map 'HighWayLevel' took 0.332
+[2019.09.16-13.59.40:832][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.59.41:487][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2019.09.16-13.59.43:269][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/TestLevelC23B58A94E360E00D236E797526DCE18.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/TestLevel.umap'
+[2019.09.16-13.59.43:604][949]LogFileHelpers: Saving map 'TestLevel' took 2.773
+[2019.09.16-13.59.43:609][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/StreetLevel" FILE="../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/StreetLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.09.16-13.59.43:672][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.09.16-13.59.43:674][949]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: StreetLevel, Actor: /Game/Levels/StreetLevel.StreetLevel:PersistentLevel.REINST_StreetLevel_C_0
+[2019.09.16-13.59.46:105][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/StreetLevelAB9B27624F16A290C76D10A64AB286E0.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/StreetLevel.umap'
+[2019.09.16-13.59.46:130][949]LogFileHelpers: Saving map 'StreetLevel' took 2.522
+[2019.09.16-13.59.46:198][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.09.16-13.59.46:201][949]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Industrialsec_buildings, Actor: /Game/Levels/Industrialsec_buildings.Industrialsec_buildings:PersistentLevel.REINST_Industrialsec_buildings_C_0
+[2019.09.16-13.59.46:550][949]LogSavePackage: Moving '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Saved/Industrialsec_buildings96E44F6246EDDD9A55EDD194BDA8F52A.tmp' to '../../../../../../Users/clearym1/Desktop/DAGD 300/BlockOut/Content/Levels/Industrialsec_buildings.umap'
+[2019.09.16-13.59.46:554][949]LogFileHelpers: Saving map 'Industrialsec_buildings' took 0.420
+[2019.09.16-13.59.47:807][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.09.16-13.59.47:857][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.09.16-13.59.47:907][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.09.16-13.59.47:958][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.09.16-13.59.48:007][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.09.16-13.59.48:058][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.09.16-13.59.48:107][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2019.09.16-13.59.48:153][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.09.16-13.59.48:202][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.09.16-13.59.48:246][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.09.16-14.00.22:770][781]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube104)
+[2019.09.16-14.00.23:417][826]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube105)
+[2019.09.16-14.00.24:358][923]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube106)
+[2019.09.16-14.00.25:111][996]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube107)
+[2019.09.16-14.00.25:682][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube99)
+[2019.09.16-14.00.26:419][133]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube115)
+[2019.09.16-14.00.27:071][200]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube117)
+[2019.09.16-14.00.27:913][292]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder13)
+[2019.09.16-14.00.28:378][335]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder12)
+[2019.09.16-14.00.29:265][429]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube114)
+[2019.09.16-14.00.29:720][475]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube116)
+[2019.09.16-14.00.30:644][573]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder14)
+[2019.09.16-14.00.31:256][633]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder15)
+[2019.09.16-14.00.33:950][927]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube93)
+[2019.09.16-14.00.34:580][971]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube94)
+[2019.09.16-14.00.35:528][ 67]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube95)
+[2019.09.16-14.00.36:370][156]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube96)
+[2019.09.16-14.00.37:054][224]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube97)
+[2019.09.16-14.00.39:392][426]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube82)
+[2019.09.16-14.00.45:686][ 26]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube18)
+[2019.09.16-14.00.46:481][ 67]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder3)
+[2019.09.16-14.00.47:137][120]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder4)
+[2019.09.16-14.00.49:367][308]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder7)
+[2019.09.16-14.00.49:862][346]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder5)
+[2019.09.16-14.00.51:424][470]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder6)
+[2019.09.16-14.00.52:339][550]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2019.09.16-14.00.53:007][614]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube16)
+[2019.09.16-14.00.56:512][875]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube29)
+[2019.09.16-14.00.59:068][ 93]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube28)
+[2019.09.16-14.00.59:893][165]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2019.09.16-14.01.00:645][226]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube27)
+[2019.09.16-14.01.02:262][369]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube17)
+[2019.09.16-14.01.03:166][448]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder8)
+[2019.09.16-14.01.03:675][498]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube38)
+[2019.09.16-14.01.04:590][587]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube39)
+[2019.09.16-14.01.05:050][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube40)
+[2019.09.16-14.01.05:952][719]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube41)
+[2019.09.16-14.01.07:835][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.16-14.01.07:912][920]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.09.16-14.01.07:913][920]LogWindows: Windows GetLastError: The operation completed successfully. (0)
